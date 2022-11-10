@@ -1,0 +1,53 @@
+*{
+    background-color: black;
+    
+}
+p{
+    color: yellow;
+    margin: 0%;
+}
+#dikdortgen{
+    float: right;
+    margin-top: 20rem;
+    margin-right: 10rem;
+    padding: 5% 1% 5% ;
+    width: 30%;
+    border: 10px solid aqua;
+    border-top: 5px solid aqua;
+    border-bottom: 5px solid aqua;
+    border-radius: 2%;
+}
+#cember{
+    float: left;
+    margin-top: 20rem;
+    margin-left: 10rem; 
+    padding: 5% 1% 5% ;
+    width: 20%;
+    border: 10px solid aqua;
+    border-top: 5px solid aqua;
+    border-bottom: 5px solid aqua;
+    border-radius: 50%;
+}
+#kose1{
+    float : right;
+    margin-top:18rem;
+    margin-right: -4rem;
+}
+#kose2{
+    float : right;
+    margin-top:18rem;
+    margin-right: -30rem;
+}
+#kose3{
+    float : right;
+    margin-top:30rem;
+    margin-right: -30rem;
+}
+#kose4{
+    float : right;
+    margin-top:30rem;
+    margin-right: -5rem;
+}
+#u1{
+    font-size: 30px;
+}
